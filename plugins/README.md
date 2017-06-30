@@ -1,1 +1,1 @@
-
+Unzip the files using your favorite archive extractor (Winrar, 7zip etc) and place all these folders inside the plugins folder. Did not feel like creating folders for all the plugins and just decided to throw them in a zip file.
