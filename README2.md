@@ -1,0 +1,1 @@
+This is a new ABXD based board called Moline (named after the city in Illinois) This has all the plugins with it along with a broken about us page. Setup details in README.md (Right click and use open with (on windows) to open the readme.md in your favorite text editor)
