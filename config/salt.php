@@ -1,0 +1,1 @@
+<?php $salt = "1eWzHERx8jhLoPah" ?>
