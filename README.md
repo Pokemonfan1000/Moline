@@ -8,6 +8,10 @@ Please note that you are using a version of Moline obtained from the Git
 repository. This version of Moline may have serious vulnerabillities and
 might not work at all. (Warning included to please some people. This should work everywhere)
 
+## Before you begin
+
+There are two zip files inside of this archive found in the plugins and the themes folder. Extract the plugins zip to the plugins folder and the themes zip to the themes folder.
+
 ## Installation
 
 [Download Moline](https://github.com/Pokemonfan1000/Moline), put it
